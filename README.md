@@ -1,4 +1,4 @@
-# Oi, aqui irá encontar a recriação da página de login no instagram :nerd_face:
+# Oi, aqui irá encontar a recriação da página de login do instagram :nerd_face:
 
 Neste projeto estudamos como posicionar itens no flex-box.
 
